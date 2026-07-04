@@ -1,4 +1,5 @@
 ## Weekly Breach Investigation
+<img width="1024" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/86490933-21d5-4369-9657-dbf11067892e" />
 Breach: Indirect Prompt Injection — Malicious Websites Targeting AI Agents
 Analyst: Jamal Mahmoad
 Date: 2026-07-04
